@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Recipes>
+  <Recipe ID="1">
+    <Name><![CDATA[Apple Pie]]></Name>
+    <Ingredients>
+      <Item ID="3001" Quantity="1"/>
+      <Item ID="3002" Quantity="1"/>
+      <Item ID="3003" Quantity="1"/>
+    </Ingredients>
+    <OutputItems>
+      <Item ID="2001" Quantity="1"/>
+    </OutputItems>
+  </Recipe>
+  <Recipe ID="2">
+    <Name><![CDATA[Root Of Yggdrasil]]></Name>
+    <Ingredients>
+      <Item ID="1001" Quantity="3"/>
+    </Ingredients>
+    <OutputItems>
+      <Item ID="1003" Quantity="1"/>
+    </OutputItems>
+  </Recipe>
+</Recipes>
